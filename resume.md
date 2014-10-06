@@ -16,7 +16,7 @@ Lucas Connors
         <div align="right">
         +1 (226) 600-3929
         <br>lucas@revolutiontech.ca
-        <br>[www.revolutiontech.ca&nbsp;](http://revolutiontech.ca)
+        <br><a href="http://revolutiontech.ca">www.revolutiontech.ca&nbsp;</a>
         </div>
         </td>
     </tr>
