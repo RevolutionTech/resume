@@ -1,9 +1,9 @@
-<center>Lucas Connors</center>
+Lucas Connors
 ==
 
-<center>**4A Honours Computer Science**<br />20384315</center>
+**4A Honours Computer Science**
+<br />20384315
 
-<center>
 <table width="100%">
     <tr>
         <td width="50%">
@@ -16,12 +16,11 @@
         <div align="right">
         +1 (226) 600-3929
         <br>lucas@revolutiontech.ca
-        <br>www.revolutiontech.ca&nbsp;
+        <br>[www.revolutiontech.ca&nbsp;](http://revolutiontech.ca)
         </div>
         </td>
     </tr>
 </table>
-</center>
 
 ### SKILLS SUMMARY
 
