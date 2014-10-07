@@ -21,23 +21,22 @@ Lucas Connors
 
 ### SKILLS SUMMARY
 
-- Enthusiastic with 10 years of programming experience
+- Enthusiastic with over 10 years of programming experience
 - Excellent contributor to team projects
 - Strong personal initiative; creative problem-solver
-- Flexible and compatible in varying working environments, although prefers Agile method
+- Flexible and compatible in varying working environments
 - Thrives under pressure; meets tight deadlines
 - Committed to accomplishing daily and life-long goals
 
 ### TECHNICAL SKILLS
 
-- Fluent user of Windows, Mac OS, and Linux; increases productivity with bash scripts and makefiles
-- Enhances composition of programs with OOD and through abstract data types such as multiway tries
-- Assesses correctness of programs with comprehensive test suites
-- Proficient in MIPS assembly programming
-- Programming: C/C++, Java (Android SDK), Objective-C (Xcode), Python, SQL
-- Web: HTML/CSS (Twitter Bootstrap), JavaScript, Django, PHP
-- Software: Adobe Creative Suite (Dreamweaver, Flash, Illustrator, Photoshop), Audacity, Microsoft
-Office and OpenOffice/LibreOffice, R, CVS/Git/SVN, GDB
+- Power user of Windows, Mac OS X, and Debian; increases productivity with bash, sed, and awk
+- Advocate of modular, scalable, and maintainable solutions with unit tests
+- A Git expert; writes hooks and aliases
+- Comfortable launching and monitoring EC2 and RDS instances on AWS
+- Languages: Python, Java, C, C++, JavaScript, Objective-C
+- Libraries: Django, Android SDK, Bootstrap, Sphinx
+- Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
 
 ### EDUCATION
 
