@@ -1,23 +1,11 @@
 Lucas Connors
 ==
 
-<table width="100%">
-    <tr>
-        <td width="50%">
-        Present Address:
-        <br>116 Clayton Street, San Francisco, CA, US
-        <br>Permanent Address:
-        <br>94 Archer Place, Kitchener, ON, CA
-        </td>
-        <td width="50%">
-        <div align="right">
-        +1 (226) 600-3929
-        <br>lucas@revolutiontech.ca
-        <br><a href="http://revolutiontech.ca">www.revolutiontech.ca&nbsp;</a>
-        </div>
-        </td>
-    </tr>
-</table>
++1 (226) 600-3929
+<br>lucas@revolutiontech.ca
+<br>[revolutiontech.ca](http://revolutiontech.ca)
+
+View this resume on Github at [github.com/RevolutionTech/resume](http://www.github.com/RevolutionTech/resume).
 
 ### SKILLS SUMMARY
 
