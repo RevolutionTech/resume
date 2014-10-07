@@ -5,9 +5,9 @@ Lucas Connors
     <tr>
         <td width="50%">
         Present Address:
-        <br>116 Clayton Street, San Francisco, CA, United States
+        <br>116 Clayton Street, San Francisco, CA, US
         <br>Permanent Address:
-        <br>94 Archer Place, Kitchener, ON, Canada
+        <br>94 Archer Place, Kitchener, ON, CA
         </td>
         <td width="50%">
         <div align="right">
@@ -44,8 +44,16 @@ Lucas Connors
 
 ### EMPLOYMENT EXPERIENCE
 
-**Software Engineer**
-<br />A Thinking Ape Technologies, Inc., 322 Water St, Vancouver, British Columbia, Sept 2013 – Dec 2013
+**Backend Engineer**
+<br />InfoScout, 322 Ritch St, San Francisco, CA, US, Apr 2014 – Dec 2014
+
+- Took ownership over project to move consumer apps from webviews to native
+- Engineered new models and performed schema migrations to existing tables
+- Addressed various security vulnerabilities and took action to resolve them
+- Implemented new backend logic to improve data quality from users
+
+**Full-Stack Engineer**
+<br />A Thinking Ape Technologies, Inc., 322 Water St, Vancouver, BC, CA, Sept 2013 – Dec 2013
 
 - Developed new features on games such as Kingdoms at War, a top grossing app on the App Store
 - Created and deployed an improved system for in-game events on a Django backend
@@ -53,13 +61,13 @@ Lucas Connors
 - Performed data analysis to determine root cause of specific behaviour in Android users
 
 **Instructional Support Assistant (CS 240: Data Structures and Data Management)**
-<br />University of Waterloo, 200 University Ave W, Waterloo, Ontario, Jan 2013 – Apr 2013
+<br />University of Waterloo, 200 University Ave W, Waterloo, ON, CA, Jan 2013 – Apr 2013
 
 - Resolved student questions in consulting hours and via online forums (Piazza)
 - Posted announcements and maintained content on the course web site
 
 **Online Learning Developer**
-<br />OpenText, 275 Frank Tompa Dr, Waterloo, Ontario, Apr 2012 – Dec 2012
+<br />OpenText, 275 Frank Tompa Dr, Waterloo, ON, CA, Apr 2012 – Dec 2012
 
 - Developed 12 corporate e-learning modules using consistent, original design
 - Administered corporation's global Learning Management System (LMS) with supervisor
