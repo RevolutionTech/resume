@@ -15,7 +15,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 - Thrives under pressure; meets tight deadlines
 - Committed to accomplishing daily and life-long goals
 
-### TECHNICAL SKILLS
+### TECHNICAL HIGHLIGHTS
 
 - Power user of Windows, Mac OS X, and Debian; increases productivity with bash, sed, and awk
 - Advocate of modular, scalable, and maintainable solutions with unit tests
