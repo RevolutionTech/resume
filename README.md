@@ -25,6 +25,18 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 - Libraries: Django, Android SDK, Bootstrap, Sphinx
 - Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
 
+### HACKS AND SIDE PROJECTS
+
+- [Raspberry Pi](https://bitbucket.org/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
+- Exception logging that infers cause by comparing stack trace with git blame
+- [Android app](https://bitbucket.org/RevolutionTech/dutch-blitz-sidekick) to track score in the card game *Dutch Blitz*
+- Backend of chatting app for Android (frontend in development)
+
+### EDUCATION
+
+**Candidate for Bachelor of Computer Science**, Honours Computer Science, Cognitive Science Minor
+<br />University of Waterloo, Waterloo, Ontario -- Sept 2010 - June 2015
+
 ### EMPLOYMENT EXPERIENCE
 
 **Backend Engineer**
@@ -56,17 +68,5 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 - Administered corporation's global Learning Management System (LMS) with supervisor
 - Introduced automation to Global Learning and Development team by writing scripts
 - Lead technical support strategy for transition to new LMS using FrontRange ITSM
-
-### HACKS AND SIDE PROJECTS
-
-- [Raspberry Pi](https://bitbucket.org/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
-- Exception logging that infers cause by comparing stack trace with git blame
-- [Android app](https://bitbucket.org/RevolutionTech/dutch-blitz-sidekick) to track score in the card game *Dutch Blitz*
-- Backend of chatting app for Android (frontend in development)
-
-### EDUCATION
-
-**Candidate for Bachelor of Computer Science**, Honours Computer Science, Cognitive Science Minor
-<br />University of Waterloo, Waterloo, Ontario -- Sept 2010 - June 2015
 
 Hobbies include: working on hackathon projects, playing guitar, reading, and cooking
