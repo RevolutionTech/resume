@@ -48,16 +48,9 @@ Lucas Connors
 <br />A Thinking Ape Technologies, Inc., 322 Water St, Vancouver, British Columbia, Sept 2013 – Dec 2013
 
 - Developed new features on games such as Kingdoms at War, a top grossing app on the App Store
-- Created and deployed an improved system for in-game events using Python/Django with MySQL
-- Refined user interfaces of three games using Java (Android SDK) and Objective-C (Xcode)
+- Created and deployed an improved system for in-game events on a Django backend
+- Refined user interfaces of three games using native Java and Objective-C
 - Performed data analysis to determine root cause of specific behaviour in Android users
-
-**Computer Technician**
-<br />Self-Employment, Kitchener-Waterloo Region, Ontario, Apr 2009 – Aug 2013
-
-- Evaluate computer systems in homes and businesses
-- Provide written estimates for replacement or upgrade where applicable
-- Design and modify business web pages
 
 **Instructional Support Assistant (CS 240: Data Structures and Data Management)**
 <br />University of Waterloo, 200 University Ave W, Waterloo, Ontario, Jan 2013 – Apr 2013
