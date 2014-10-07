@@ -24,7 +24,6 @@ Lucas Connors
 - Enthusiastic with over 10 years of programming experience
 - Excellent contributor to team projects
 - Strong personal initiative; creative problem-solver
-- Flexible and compatible in varying working environments
 - Thrives under pressure; meets tight deadlines
 - Committed to accomplishing daily and life-long goals
 
@@ -74,19 +73,4 @@ Lucas Connors
 - Introduced automation to Global Learning and Development team by writing scripts
 - Lead technical support strategy for transition to new LMS using FrontRange ITSM
 
-**IT Support Analyst**
-<br />University of Waterloo School of Pharmacy, 10A Victoria St S, Kitchener, Ontario, May 2011 – Aug 2011
-
-- Supported staff and students with technical issues using a ticket system
-- Implemented inventory data collection and online backup programs
-- Created help desk to improve efficiency among IT department
-
-**Supervisor**
-<br />CraZ TechZ Inc., 1420 Victoria St N, Kitchener, Ontario, June 2010 – Sept 2010
-
-- Co-ordinated student enrolment and expedited teaching materials on a weekly basis
-- Coached instructors at Guelph, Kitchener, and Waterloo locations
-- Authored and documented three new course curricula for students
-- Revised many other course curricula for the benefit of future students and instructors
-
-Hobbies include: programming, guitar, reading, cooking, animation/video editing, and logic puzzles
+Hobbies include: working on hackathon projects, playing guitar, reading, and cooking
