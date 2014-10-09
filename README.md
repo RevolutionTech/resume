@@ -12,15 +12,15 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 **Backend Engineer**
 <br />InfoScout, 322 Ritch St, San Francisco, CA, US, Apr 2014 – Dec 2014
 
-- Took ownership over project to move consumer apps from webviews to native
-- Engineered new models and performed schema migrations to existing tables
+- Lead project to move flagship product from webview experience to native
+- Performed schema migrations on tables with over 10 million rows of data, without outages
+- Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
 - Addressed various security vulnerabilities and took action to resolve them
-- Implemented new backend logic to improve data quality from users
 
 **Full-Stack Engineer**
 <br />A Thinking Ape Technologies, Inc., 322 Water St, Vancouver, BC, CA, Sept 2013 – Dec 2013
 
-- Developed new features on games such as Kingdoms at War, a top grossing app on the App Store
+- Developed new features on Kingdoms at War, a top grossing app on the App Store
 - Created and deployed an improved system for in-game events on a Django backend
 - Refined user interfaces of three games using native Java and Objective-C
 - Performed data analysis to determine root cause of specific behaviour in Android users
@@ -53,7 +53,6 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 - Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
 - Actively improves environment with bash, sed, and awk scripts
 - Advanced Git user; writes hooks and aliases
-- Comfortable launching and monitoring EC2 and RDS instances on AWS
 
 ### EDUCATION
 
