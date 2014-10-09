@@ -17,13 +17,12 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 ### TECHNICAL HIGHLIGHTS
 
-- Power user of Windows, Mac OS X, and Debian; increases productivity with bash, sed, and awk
-- Advocate of modular, scalable, and maintainable solutions with unit tests
-- A Git expert; writes hooks and aliases
-- Comfortable launching and monitoring EC2 and RDS instances on AWS
 - Languages: Python, Java, C, C++, JavaScript, Objective-C
-- Libraries: Django, Android SDK, Bootstrap, Sphinx
+- Libraries: Django, Android SDK, Sphinx, Curses, Bootstrap
 - Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
+- Actively improves environment with bash, sed, and awk scripts
+- Advanced Git user; writes hooks and aliases
+- Comfortable launching and monitoring EC2 and RDS instances on AWS
 
 ### HACKS AND SIDE PROJECTS
 
