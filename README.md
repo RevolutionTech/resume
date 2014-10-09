@@ -7,35 +7,6 @@ Lucas Connors
 
 View this resume on Github at [github.com/RevolutionTech/resume](http://www.github.com/RevolutionTech/resume).
 
-### SKILLS SUMMARY
-
-- Enthusiastic with over 10 years of programming experience
-- Excellent contributor to team projects
-- Strong personal initiative; creative problem-solver
-- Thrives under pressure; meets tight deadlines
-- Committed to accomplishing daily and life-long goals
-
-### TECHNICAL HIGHLIGHTS
-
-- Languages: Python, Java, C, C++, JavaScript, Objective-C
-- Libraries: Django, Android SDK, Sphinx, Curses, Bootstrap
-- Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
-- Actively improves environment with bash, sed, and awk scripts
-- Advanced Git user; writes hooks and aliases
-- Comfortable launching and monitoring EC2 and RDS instances on AWS
-
-### HACKS AND SIDE PROJECTS
-
-- [Raspberry Pi](https://bitbucket.org/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
-- Exception logging that infers cause by comparing stack trace with git blame
-- [Android app](https://bitbucket.org/RevolutionTech/dutch-blitz-sidekick) to track score in the card game *Dutch Blitz*
-- Backend of chatting app for Android (frontend in development)
-
-### EDUCATION
-
-**Candidate for Bachelor of Computer Science**, Honours Computer Science, Cognitive Science Minor
-<br />University of Waterloo, Waterloo, Ontario -- Sept 2010 - June 2015
-
 ### EMPLOYMENT EXPERIENCE
 
 **Backend Engineer**
@@ -65,7 +36,35 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 - Developed 12 corporate e-learning modules using consistent, original design
 - Administered corporation's global Learning Management System (LMS) with supervisor
-- Introduced automation to Global Learning and Development team by writing scripts
-- Lead technical support strategy for transition to new LMS using FrontRange ITSM
+- Introduced automation to Global Learning and Development team with scriptwriting
+
+### SKILLS SUMMARY
+
+- Enthusiastic with over 10 years of programming experience
+- Excellent contributor to team projects
+- Strong personal initiative; creative problem-solver
+- Thrives under pressure; meets tight deadlines
+- Committed to accomplishing daily and life-long goals
+
+### TECHNICAL HIGHLIGHTS
+
+- Languages: Python, Java, C, C++, JavaScript, Objective-C
+- Libraries: Django, Android SDK, Sphinx, Curses, Bootstrap
+- Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
+- Actively improves environment with bash, sed, and awk scripts
+- Advanced Git user; writes hooks and aliases
+- Comfortable launching and monitoring EC2 and RDS instances on AWS
+
+### EDUCATION
+
+**Candidate for Bachelor of Computer Science**, Honours Computer Science, Cognitive Science Minor
+<br />University of Waterloo, Waterloo, Ontario -- Sept 2010 - June 2015
+
+### HACKS AND SIDE PROJECTS
+
+- [Raspberry Pi](https://bitbucket.org/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
+- Exception logging that infers cause by comparing stack trace with git blame
+- [Android app](https://bitbucket.org/RevolutionTech/dutch-blitz-sidekick) to track score in the card game *Dutch Blitz*
+- Backend of chatting app for Android (frontend under development)
 
 Hobbies include: working on hackathon projects, playing guitar, reading, and cooking
