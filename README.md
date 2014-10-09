@@ -56,7 +56,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 ### EDUCATION
 
-**Candidate for Bachelor of Computer Science**, Honours Computer Science, Cognitive Science Minor
+**Candidate for BCS**, Honours Computer Science, Cognitive Science Minor
 <br />University of Waterloo, Waterloo, Ontario -- Sept 2010 - June 2015
 
 ### HACKS AND SIDE PROJECTS
