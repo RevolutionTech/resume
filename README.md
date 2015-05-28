@@ -48,9 +48,9 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 ### TECHNICAL HIGHLIGHTS
 
-- Languages: Python, Java, C, C++, JavaScript, Objective-C
-- Libraries: Django, Android SDK, Sphinx, Curses, Bootstrap
-- Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity
+- Languages: Python, Java, C++, C, JavaScript, C#, Objective-C
+- Libraries: Django, Android SDK, Socket.IO, Sphinx, Curses, Bootstrap, Foundation
+- Software: Adobe CS (Flash, Illustrator, Photoshop), Audacity, Unity
 - Actively improves environment with bash, sed, and awk scripts
 - Advanced Git user; writes hooks and aliases
 
@@ -61,6 +61,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 ### HACKS AND SIDE PROJECTS
 
+- Online restaurant menu and order management [web application](https://bitbucket.org/RevolutionTech/seared-quail)
 - [Django library](https://github.com/RevolutionTech/django-conditions) that allows creation of conditional logic in admin
 - [Raspberry Pi](https://bitbucket.org/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
 - Exception logging that infers cause by comparing stack trace with git blame
