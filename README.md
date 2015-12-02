@@ -63,7 +63,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 - Online restaurant menu and order management [web application](https://bitbucket.org/RevolutionTech/seared-quail)
 - [Django library](https://github.com/RevolutionTech/django-conditions) that allows creation of conditional logic in admin
-- [Raspberry Pi](https://bitbucket.org/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
+- [Raspberry Pi](https://github.com/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
 - Exception logging that infers cause by comparing stack trace with git blame
 - [Android app](https://bitbucket.org/RevolutionTech/dutch-blitz-sidekick) to track score in the card game *Dutch Blitz*
 
