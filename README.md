@@ -1,28 +1,28 @@
 Lucas Connors
 ==
 
-lucas@revolutiontech.ca / +1 (226) 600-3929 / [revolutiontech.ca](http://revolutiontech.ca)
+lucas@revolutiontech.ca | +1 (226) 600-3929 | [revolutiontech.ca](http://revolutiontech.ca)
 
 View this resume on Github at [github.com/RevolutionTech/resume](http://www.github.com/RevolutionTech/resume).
 
 ### EMPLOYMENT EXPERIENCE
 
 **Software Engineer**
-<br />Google, 1600 Amphitheatre Pkwy, Mountain View, CA, USA -- June 2015 - Present
+<br />Google, 1600 Amphitheatre Pkwy, Mountain View, CA, USA | June 2015 - Present
 
 - Built features for endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
 - Identified incorrect behaviour in /o/oauth2/tokeninfo endpoint, refactored logic
 
 **Backend Engineer**
-<br />InfoScout, 322 Ritch St, San Francisco, CA, USA -- Apr 2014 – June 2015
+<br />InfoScout, 322 Ritch St, San Francisco, CA, USA | Apr 2014 – June 2015
 
 - Lead development of new mobile application [ReceiptBin](http://receiptbinapp.com/)
 - Performed schema migrations on tables with over 10 million rows of data, without outages
 - Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
 
 **Full-Stack Engineer**
-<br />A Thinking Ape, 322 Water St, Vancouver, BC, CA -- Sept 2013 – Dec 2013
+<br />A Thinking Ape, 322 Water St, Vancouver, BC, CA | Sept 2013 – Dec 2013
 
 - Developed new features on Kingdoms at War, a top grossing app on the App Store
 - Created and deployed an improved system for in-game events on a Django backend
@@ -37,7 +37,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 ### EDUCATION
 
 **BCS**, Honours Computer Science, Cognitive Science Minor
-<br />University of Waterloo, Waterloo, ON, CA -- Sept 2010 - April 2015
+<br />University of Waterloo, Waterloo, ON, CA | Sept 2010 - April 2015
 
 ### HACKS AND SIDE PROJECTS
 
