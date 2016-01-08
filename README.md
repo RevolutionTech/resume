@@ -9,8 +9,15 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 ### EMPLOYMENT EXPERIENCE
 
+**Software Engineer**
+<br />Google, 1600 Amphitheatre Pkwy, Mountain View, CA, USA, June 2015 - Present
+
+- Built features for endpoint that receives hundreds of thousands of queries per second
+- Created new RPCs to support a feature launch for Google Play Games
+- Identified incorrect behaviour in /o/oauth2/tokeninfo endpoint, refactored logic
+
 **Backend Engineer**
-<br />InfoScout, 322 Ritch St, San Francisco, CA, US, Apr 2014 – June 2015
+<br />InfoScout, 322 Ritch St, San Francisco, CA, USA, Apr 2014 – June 2015
 
 - Lead development of new mobile application [ReceiptBin](http://receiptbinapp.com/)
 - Performed schema migrations on tables with over 10 million rows of data, without outages
