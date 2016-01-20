@@ -1,7 +1,7 @@
 Lucas Connors
 ==
 
-lucas@revolutiontech.ca | +1 (226) 600-3929 | [revolutiontech.ca](http://revolutiontech.ca)
+lucas@revolutiontech.ca | +1 (650) 307-0534 | [revolutiontech.ca](http://revolutiontech.ca)
 
 View this resume on Github at [github.com/RevolutionTech/resume](http://www.github.com/RevolutionTech/resume).
 
