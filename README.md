@@ -8,7 +8,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 ### EMPLOYMENT EXPERIENCE
 
 **Software Engineer**
-<br />Google, 1600 Amphitheatre Pkwy, Mountain View, CA, USA | June 2015 - Present
+<br />Google, 1600 Amphitheatre Pkwy, Mountain View, CA, USA | June 2015 - Feb 2016
 
 - Built features for endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
