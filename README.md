@@ -8,21 +8,21 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 ### EMPLOYMENT EXPERIENCE
 
 **Software Engineer** | June 2015 - Feb 2016
-<br />Google, 1600 Amphitheatre Pkwy, Mountain View, CA, USA
+<br />Google | 1600 Amphitheatre Pkwy, Mountain View, CA, USA
 
 - Built features for endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
 - Identified incorrect behaviour in `/o/oauth2/tokeninfo` endpoint, refactored logic
 
 **Backend Engineer** | Apr 2014 – June 2015
-<br />InfoScout, 322 Ritch St, San Francisco, CA, USA
+<br />InfoScout | 322 Ritch St, San Francisco, CA, USA
 
 - Lead development of new mobile application ReceiptBin
 - Performed schema migrations on tables with over 10 million rows of data, without outages
 - Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
 
 **Full-Stack Engineer** | Sept 2013 – Dec 2013
-<br />A Thinking Ape, 322 Water St, Vancouver, BC, CA
+<br />A Thinking Ape | 322 Water St, Vancouver, BC, CA
 
 - Developed new features on Kingdoms at War, a top grossing app on the App Store
 - Created and deployed an improved system for in-game events on a Django backend
@@ -37,7 +37,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 ### EDUCATION
 
 **BCS**, Honours Computer Science, Cognitive Science Minor | 2015
-<br />University of Waterloo, Waterloo, ON, CA
+<br />University of Waterloo | Waterloo, ON, CA
 
 ### HACKS AND SIDE PROJECTS
 
