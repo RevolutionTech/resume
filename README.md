@@ -22,7 +22,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 - Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
 
 **Full-Stack Engineer** | Sept 2013 – Dec 2013
-<br />A Thinking Ape | 322 Water St, Vancouver, BC, CA
+<br />A Thinking Ape | 322 Water St, Vancouver, BC, Canada
 
 - Developed new features on Kingdoms at War, a top grossing app on the App Store
 - Created and deployed an improved system for in-game events on a Django backend
@@ -37,7 +37,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 ### EDUCATION
 
 **BCS**, Honours Computer Science, Cognitive Science Minor | 2015
-<br />University of Waterloo | Waterloo, ON, CA
+<br />University of Waterloo | Waterloo, ON, Canada
 
 ### HACKS AND SIDE PROJECTS
 
