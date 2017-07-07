@@ -17,7 +17,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 **Backend Engineer**
 <br />InfoScout, 322 Ritch St, San Francisco, CA, USA | Apr 2014 – June 2015
 
-- Lead development of new mobile application [ReceiptBin](http://receiptbinapp.com/)
+- Lead development of new mobile application ReceiptBin
 - Performed schema migrations on tables with over 10 million rows of data, without outages
 - Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
 
