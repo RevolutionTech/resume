@@ -7,7 +7,8 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 ### EMPLOYMENT EXPERIENCE
 
-**Backend Engineer** | Feb 2016 – Present
+**Senior Software Engineer** | July 2017 – Present
+<br />**Software Engineer** | Feb 2016 – July 2017
 <br />InfoScout | 322 Ritch St, San Francisco, CA, USA
 
 - Developed frameworks for A/B testing, access control, and asynchronous bulk actions
