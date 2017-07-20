@@ -43,6 +43,5 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 
 - Equity crowdfunding [platform for musicians](https://github.com/RevolutionTech/perdiem-django)
 - Django libraries to help [developers write tests quickly](https://github.com/RevolutionTech/django-pigeon) and [PMs create conditional logic](https://github.com/RevolutionTech/django-conditions)
-- [Photography contest](https://github.com/RevolutionTech/flamingo) web application
-- Restaurant menu and order management [web application](https://github.com/RevolutionTech/seared-quail)
+- [Photography contest](https://github.com/RevolutionTech/flamingo) and [restaurant menu and order management](https://github.com/RevolutionTech/seared-quail) web applications
 - [Raspberry Pi](https://github.com/RevolutionTech/hummingbird) app that plays walk-in songs by monitoring network activity
