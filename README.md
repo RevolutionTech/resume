@@ -31,7 +31,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](http://www.gith
 ### TECHNICAL HIGHLIGHTS
 
 - Languages: Python, Java, JavaScript, C#, C++, C, Swift
-- Libraries: Django, Android SDK, Socket.IO, Sphinx, Bootstrap, Foundation
+- Libraries: Django, Zappa, Android SDK, Socket.IO, Sphinx, Bootstrap, Foundation
 - Actively improves environment with bash, sed, and awk scripts
 - Advanced Git user; writes hooks and aliases
 
