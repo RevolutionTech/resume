@@ -20,7 +20,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 - Built features for endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
-- Identified incorrect behaviour in `/o/oauth2/tokeninfo` endpoint, refactored logic
+- Refactored logic in `/o/oauth2/tokeninfo` endpoint after identifying incorrect behaviour
 
 **Backend Engineer** | Apr 2014 – June 2015
 <br />InfoScout | 322 Ritch St, San Francisco, CA, USA
