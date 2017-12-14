@@ -12,7 +12,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 <br />InfoScout | 322 Ritch St, San Francisco, CA, USA
 
 - Developed frameworks for A/B testing, access control, and asynchronous bulk actions
-- Planned and executed migration of monolithic codebase from Django 1.4 to 1.10
+- Planned and executed migration of monolithic codebase from Django 1.4 to 1.11
 - Integrated CI improvements including linting, parallelization, and validation of API docs
 
 **Software Engineer** | June 2015 - Feb 2016
