@@ -9,7 +9,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 **Senior Software Engineer** | July 2017 – Present
 <br />**Software Engineer** | Feb 2016 – July 2017
-<br />InfoScout | 322 Ritch St, San Francisco, CA, USA
+<br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
 
 - Developed frameworks for A/B testing, access control, and asynchronous bulk actions
 - Planned and executed migration of monolithic codebase from Django 1.4 to 1.11
@@ -23,7 +23,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 - Refactored logic in `/o/oauth2/tokeninfo` endpoint after identifying incorrect behaviour
 
 **Backend Engineer** | Apr 2014 – June 2015
-<br />InfoScout | 322 Ritch St, San Francisco, CA, USA
+<br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
 
 - Performed schema migrations on tables with over 10 million rows of data, without outages
 - Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
