@@ -8,7 +8,13 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 ### EMPLOYMENT EXPERIENCE
 
 **Senior Software Engineer** | July 2017 – Present
-<br />**Software Engineer** | Feb 2016 – July 2017
+<br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
+
+- Drove effort to add Unicode support and i18n to monolith and over 10 internal dependencies
+- Developed libraries that simplify Hashicorp Vault and SAML integration for Django projects
+- Created and maintained HR-related web apps for internal use with Zappa and Lambda
+
+**Software Engineer** | Feb 2016 – July 2017
 <br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
 
 - Developed frameworks for A/B testing, access control, and asynchronous bulk actions
@@ -21,12 +27,6 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 - Built features for endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
 - Refactored logic in `/o/oauth2/tokeninfo` endpoint after identifying incorrect behaviour
-
-**Backend Engineer** | Apr 2014 – June 2015
-<br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
-
-- Performed schema migrations on tables with over 10 million rows of data, without outages
-- Launched instances on AWS for Django/MySQL apps with over 70,000 daily active users
 
 ### TECHNICAL HIGHLIGHTS
 
