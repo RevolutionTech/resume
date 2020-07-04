@@ -7,7 +7,15 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### EMPLOYMENT EXPERIENCE
 
-**Senior Software Engineer** | July 2017 – Present
+**Lead Software Engineer** | May 2020 – Present
+<br />**Senior Software Engineer** | Mar 2019 – May 2020
+<br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
+
+- Built a suite of tools to support mechanical engineers' ongoing analysis of building energy usage
+- Co-designed and co-developed schema and software architecture for an anomaly detection system
+- Led refactor of prototype Flask service with S3 as only storage into Django project with PostgreSQL
+
+**Senior Software Engineer** | July 2017 – Feb 2019
 <br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
 
 - Drove effort to add Unicode support and i18n to monolith and over 10 internal dependencies
@@ -24,7 +32,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 **Software Engineer** | June 2015 - Feb 2016
 <br />Google | 1600 Amphitheatre Pkwy, Mountain View, CA, USA
 
-- Built features for endpoint that receives hundreds of thousands of queries per second
+- Built features for an endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
 - Refactored logic in `/o/oauth2/tokeninfo` endpoint after identifying incorrect behaviour
 
