@@ -1,5 +1,4 @@
-Lucas Connors
-==
+## Lucas Connors
 
 lucas@revolutiontech.ca | +1 (650) 307-0534 | [revolutiontech.ca](https://revolutiontech.ca/)
 
