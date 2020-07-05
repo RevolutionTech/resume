@@ -10,7 +10,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 <br />**Senior Software Engineer** | Mar 2019 – May 2020
 <br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
 
-- Built a suite of tools to support mechanical engineers' ongoing analysis of building energy usage
+- Built a suite of tools to support mechanical engineers' ongoing analyses of building energy savings
 - Co-designed and co-developed schema and software architecture for an anomaly detection system
 - Led refactor of prototype Flask service with S3 as only storage into Django project with PostgreSQL
 
