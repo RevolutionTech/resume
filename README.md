@@ -48,6 +48,5 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### HACKS AND SIDE PROJECTS
 
-- Equity crowdfunding [platform for musicians](https://github.com/RevolutionTech/perdiem-django)
+- Productivity tools such as a [dashboard for standup](https://github.com/RevolutionTech/rooster) and a [URL shortener for teams](https://github.com/RevolutionTech/goslinks)
 - Django libraries to help [developers write tests quickly](https://github.com/RevolutionTech/django-pigeon) and [PMs create conditional logic](https://github.com/RevolutionTech/django-conditions)
-- [Photography contest](https://github.com/RevolutionTech/flamingo) and [restaurant menu and order management](https://github.com/RevolutionTech/seared-quail) web applications
