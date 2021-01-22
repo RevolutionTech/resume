@@ -6,8 +6,10 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### EMPLOYMENT EXPERIENCE
 
-**Lead Software Engineer** | May 2020 – Present
-<br />**Senior Software Engineer** | Mar 2019 – May 2020
+**Senior Software Engineer** | Feb 2021 – Present
+<br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
+
+**Senior Software Engineer** | Mar 2019 – Jan 2021
 <br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
 
 - Built a suite of tools to support mechanical engineers' monitoring of utility bill savings
@@ -33,7 +35,6 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 - Built features for an endpoint that receives hundreds of thousands of queries per second
 - Created new RPCs to support a feature launch for Google Play Games
-- Refactored logic in `/o/oauth2/tokeninfo` endpoint after identifying incorrect behaviour
 
 ### TECHNICAL HIGHLIGHTS
 
