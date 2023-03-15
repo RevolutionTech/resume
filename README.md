@@ -54,5 +54,6 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### HACKS AND SIDE PROJECTS
 
+- [Cooperative word deduction game](https://github.com/RevolutionTech/letter-joy), inspired by the board game Letter Jam
 - Productivity tools such as a [dashboard for standup](https://github.com/RevolutionTech/rooster) and a [URL shortener for teams](https://github.com/RevolutionTech/goslinks)
 - Django libraries to help [developers write tests quickly](https://github.com/RevolutionTech/django-pigeon) and [PMs create conditional logic](https://github.com/RevolutionTech/django-conditions)
