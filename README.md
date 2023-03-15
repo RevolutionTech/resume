@@ -43,9 +43,9 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### TECHNICAL HIGHLIGHTS
 
-- Languages: Python, TypeScript, GraphQL, Java
-- Frameworks: Django, Flask, React, Android
-- DevOps Tools: Kubernetes, Zappa, Ansible
+- Languages: Python, TypeScript, JavaScript, SQL, GraphQL, Java
+- Frameworks & Libraries: Django, React, Pandas, Flask, Android
+- Tools: Git, AWS (RDS, EC2, S3, Lambda), Docker, Kubernetes
 
 ### EDUCATION
 
