@@ -11,8 +11,8 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 <br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
 
 - Architected and delivered addition of Snowflake as a second execution backend
-- Created parser for custom DSL, N-level folder system, and data type inference engine
 - Proposed and implemented new operation framework, reducing skills required to extend platform
+- Created parser for custom DSL, N-level folder system, and data type inference engine
 
 **Senior Software Engineer** | Mar 2019 – Jan 2021
 <br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
