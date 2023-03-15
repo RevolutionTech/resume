@@ -6,8 +6,13 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### EMPLOYMENT EXPERIENCE
 
-**Senior Software Engineer** | Feb 2021 – Present
+**Staff Software Engineer** | Feb 2022 – Present
+<br />**Senior Software Engineer** | Feb 2021 – Feb 2022
 <br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
+
+- Architected and delivered addition of Snowflake as a second execution backend
+- Created parser for custom DSL, N-level folder system, and data type inference engine
+- Proposed and implemented new operation framework, reducing skills required to extend platform
 
 **Senior Software Engineer** | Mar 2019 – Jan 2021
 <br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
@@ -21,7 +26,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 - Drove effort to add Unicode support and i18n to monolith and over 10 internal dependencies
 - Developed libraries that simplify Hashicorp Vault and SAML integration for Django projects
-- Created and maintained HR-related web apps for internal use with Zappa and Lambda
+- Produced and maintained HR-related web apps for internal use with Zappa and Lambda
 
 **Software Engineer** | Feb 2016 – July 2017
 <br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
