@@ -7,12 +7,18 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 ### EMPLOYMENT EXPERIENCE
 
 **Staff Software Engineer** | Feb 2022 – Present
-<br />**Senior Software Engineer** | Feb 2021 – Feb 2022
 <br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
 
 - Architected and delivered addition of Snowflake as a second execution backend
-- Proposed and implemented new operation framework, reducing skills required to extend platform
-- Created parser for custom DSL, N-level folder system, and data type inference engine
+- Proposed and completed new operation framework, reducing skills required to extend platform
+- Created folder system supporting N levels of depth, including breadcrumbs and moving subfolders
+
+**Senior Software Engineer** | Feb 2021 – Feb 2022
+<br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
+
+- Wrote grammar and parser for custom DSL with syntax familiar to Excel, Tableau, and Python users
+- Refined data type inference enabling automatic detection of user data types and formats
+- Migrated authentication to Auth0 and implemented new user onboarding flow, improving engagement
 
 **Senior Software Engineer** | Mar 2019 – Jan 2021
 <br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
@@ -33,7 +39,6 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 - Developed frameworks for A/B testing, access control, and asynchronous bulk actions
 - Planned and executed migration of monolithic codebase from Django 1.4 to 1.11
-- Integrated CI improvements including linting, parallelization, and validation of API docs
 
 **Software Engineer** | June 2015 - Feb 2016
 <br />Google | 1600 Amphitheatre Pkwy, Mountain View, CA, USA
