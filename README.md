@@ -9,9 +9,9 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 **Staff Software Engineer** | Feb 2022 – Present
 <br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
 
-- Architected and delivered addition of Snowflake as a second execution backend
+- Led all architecture for backend, added Snowflake as an execution engine to expand customer base
 - Proposed and completed new operation framework, reducing skills required to extend platform
-- Created folder system supporting N levels of depth, including breadcrumbs and moving subfolders
+- Created folder experience supporting N levels of depth, including breadcrumbs and moving subfolders
 
 **Senior Software Engineer** | Feb 2021 – Feb 2022
 <br />Cascade | 140 Geary Street 10th Floor, San Francisco, CA, USA
