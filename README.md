@@ -20,23 +20,23 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 - Refined data type inference enabling automatic detection of user data types and formats
 - Migrated authentication to Auth0 and implemented new user onboarding flow, improving engagement
 
-**Senior Software Engineer** | Mar 2019 – Jan 2021
+**Lead Software Engineer** | Jan 2020 – Jan 2021
 <br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
 
+- Drove initiative to decouple rigid modeling workflow into smaller modules, enabling more use cases
 - Built a suite of tools to support mechanical engineers' monitoring of utility bill savings
+
+**Senior Software Engineer** | Mar 2019 – Jan 2020
+<br />Carbon Lighthouse | 343 Sansome Street 7th Floor, San Francisco, CA, USA
+
 - Co-designed and co-developed schema and software architecture for an anomaly detection system
 - Led refactor of prototype Flask service with S3 as only storage into Django project with PostgreSQL
 
 **Senior Software Engineer** | July 2017 – Feb 2019
+<br />**Software Engineer** | Feb 2016 – July 2017
 <br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
 
 - Drove effort to add Unicode support and i18n to monolith and over 10 internal dependencies
-- Developed libraries that simplify Hashicorp Vault and SAML integration for Django projects
-- Produced and maintained HR-related web apps for internal use with Zappa and Lambda
-
-**Software Engineer** | Feb 2016 – July 2017
-<br />Numerator (formerly InfoScout) | 322 Ritch St, San Francisco, CA, USA
-
 - Developed frameworks for A/B testing, access control, and asynchronous bulk actions
 - Planned and executed migration of monolithic codebase from Django 1.4 to 1.11
 
