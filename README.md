@@ -6,7 +6,10 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 ### EMPLOYMENT EXPERIENCE
 
-**Staff Software Engineer** | Feb 2022 – Present
+**Staff Software Engineer** | Jun 2023 – Present
+<br />AuditBoard | San Francisco, CA
+
+**Staff Software Engineer** | Feb 2022 – Jun 2023
 <br />Cascade | San Francisco, CA
 
 - Led all architecture for backend, added Snowflake as an execution engine to expand customer base
@@ -21,16 +24,12 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 - Migrated authentication to Auth0 and implemented new user onboarding flow, improving engagement
 
 **Lead Software Engineer** | Jan 2020 – Jan 2021
+<br />**Senior Software Engineer** | Mar 2019 – Jan 2020
 <br />Carbon Lighthouse | San Francisco, CA
 
 - Drove initiative to decouple rigid modeling workflow into smaller modules, enabling more use cases
 - Built a suite of tools to support mechanical engineers' monitoring of utility bill savings
-
-**Senior Software Engineer** | Mar 2019 – Jan 2020
-<br />Carbon Lighthouse | San Francisco, CA
-
 - Co-designed and co-developed schema and software architecture for an anomaly detection system
-- Led refactor of prototype Flask service with S3 as only storage into Django project with PostgreSQL
 
 **Senior Software Engineer** | July 2017 – Feb 2019
 <br />**Software Engineer** | Feb 2016 – July 2017
