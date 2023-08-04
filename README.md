@@ -49,7 +49,7 @@ View this resume on Github at [github.com/RevolutionTech/resume](https://github.
 
 - Languages: Python, TypeScript, JavaScript, SQL, GraphQL, Java
 - Frameworks & Libraries: Django, React, Pandas, Flask, Android
-- Tools: Git, AWS (RDS, EC2, S3, Lambda), Docker, Kubernetes
+- Tools: Git, AWS (RDS, EC2, S3, Lambda), Terraform, Docker, Kubernetes
 
 ### EDUCATION
 
